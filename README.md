@@ -7,4 +7,4 @@
 ##### 2: KNN
 ##### 3: Logistic Regression
 ##### 4: MLP
-#### Most models had around 81-83% except MLP which had the highest accuracy which was around ~85% and ~87% for the validation accuarcy.
+#### Most models had around 81-83% except MLP which had the highest accuracy which was around ~87% for the validation accuarcy.
